@@ -55,14 +55,14 @@ section > h1 {
 }
 
 #footer {
-  padding: 20px 0;
+  padding: 700px 0;
   text-align: center;
-  background-color: #111111;
+  background-color: #f11c1c;
   text-decoration: none;
 }
 
 #footer a {
-  color: #ffffff;
+  color: #08bdf5;
 }
 .social > li {
   display: inline-block;
